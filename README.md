@@ -23,10 +23,8 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, a
 - Sticky navbar with smooth scrolling
 
 ## 🔗 Social Links
-- [LinkedIn]:https://linkedin.com/in/lethabo-diphoko-05a915238   
-- [GitHub]:https://github.com/lethabo-logic
-
-> Replace the links with your actual profile URLs.
+- [LinkedIn]: https://linkedin.com/in/lethabo-diphoko-05a915238   
+- [GitHub]: https://github.com/lethabo-logic
 
 ## 📷 Screenshot
 ![Screenshot](https://via.placeholder.com/800x400)
