@@ -3,6 +3,8 @@
 
 created by 
 Lethabo Diphoko
+
+
 This is a responsive personal portfolio website built using **HTML**, **CSS**, and **Bootstrap**. It showcases skills, services, projects, and contact information for Lethabo Diphoko a UI Designer & Web Developer based in South Africa.
 
 ## 📁 Project Structure
